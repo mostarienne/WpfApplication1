@@ -29,7 +29,6 @@ namespace WpfApplication1.View
         {
             InitializeComponent();
 
-            System.Threading.Thread.Sleep(20000);
             this.DataContext = new ProdajaViewModel();
           
         }
