@@ -29,7 +29,7 @@ namespace WpfApplication1.View
         {
             InitializeComponent();
 
-            this.DataContext = new ProdajaViewModel();
+            //this.DataContext = new ProdajaViewModel();
           
         }
 
